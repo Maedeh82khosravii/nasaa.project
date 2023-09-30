@@ -1,0 +1,235 @@
+a{
+    text-decoration: none;
+}
+body{
+    background-color: black;
+}
+/* style */
+#main{
+    width:1430px;
+    margin: auto;
+    background-color: black;
+    display: grid;
+}
+
+.big-pictur{
+    width: 674px;
+    height: 615px;
+   
+}
+#title-item1{
+    background-color:white;
+    opacity: 0.8;
+    width: 674px;
+    margin: 0;
+    display:inline-block;
+    position: relative;
+    bottom:4px;
+    right:677px;
+}
+#item2{
+    width:365px ;
+    position: absolute;
+    right: 617px;
+}
+#title-item2{
+    background-color:white;
+    width: 364px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    top: 335px;
+    right: 618px;
+    opacity: 0.6;
+}
+#item3{
+    background-color: #39719e ;
+    display: inline-block;
+    position:absolute;
+    right: 238px;
+    width: 365px;
+    height: 365px;
+}
+
+#text1-item3{
+    display:block;
+    position:relative;
+    left: 10px;
+    font-size: 16px;
+    padding:3px 0;
+    margin: 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#text2-item3{
+    display: block;
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+#text4-item3{
+    display: block;
+    position: relative;
+    top: 246px;
+    left: 10px;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    margin: 0;
+}
+#text5-item3{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    margin: 0;
+    position: relative;
+    left: 182px;
+    top: 229px;
+}
+
+#photo-in-item4{
+    width: 745px;
+    height: 239px;
+    position:relative; 
+    left: 685px;
+    bottom: 240px;  
+}
+#main-bottom-item1{
+    width: 365px;
+    height: 365px;
+    position: relative;
+    bottom: 230px;
+}
+#main-bottom-item2{
+    width: 670px;
+    height: 365px;
+    position: relative;
+    bottom: 230px;
+    left: 12px;
+
+}
+#main-bottom-item3{
+    width: 365px;
+    height: 365px;
+    position: relative;
+    left: 23px;
+    bottom: 229px;
+}
+#main-bottom-item4{
+    width: 367px;
+    height: 374px;
+    position: relative;
+    bottom: 214px;
+}
+#main-bottom-item7{
+    width: 365px;
+    position: relative;
+    left: 38px;
+    bottom: 225px;
+}
+#main-bottom-item6{
+    width: 325px;
+    height: 375px;
+    position: relative;
+    bottom: 213px;
+    right: -26px;
+}
+#main-bottom-item5{
+    position: relative;
+    bottom: 214px;
+    right: -12px;
+    width: 325px;
+    height: 375px;
+}
+#text1-bottom{
+    color: rgb(255, 255, 255);
+    background-color: #39719e;
+    opacity: 0.8;
+    padding: 10px 12px;
+    position: relative;
+    bottom: 677px;
+}
+#textbottomm1-bottom{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    padding: 8px 12px;
+    opacity: 0.8;
+    position: relative;
+    bottom: 645px;
+    right: 98px;
+}
+#textbottom2-bottom{
+    color: black;
+    background-color: white;
+    opacity: 0.8;
+    padding: 8px 0;
+    padding-left: 10px;
+    padding-right: 282px;
+    position: relative;
+    bottom: 643px;
+    right: -71px;
+}
+#text2-bottom{
+    color:white;
+    background-color: #39719e;
+    opacity: 0.8;
+    padding: 8px 12px;
+    position: relative;
+    bottom: 677px;
+    right: 603px;
+}
+#textbottom3-bottom{
+    background-color: rgb(255, 255, 255);
+    padding: 4px 0;
+    padding-right:210px;
+    position: relative;
+    bottom: 657px;
+    left: 20px;
+    display: inline-flex;
+}
+#text4-bottom{
+    background-color: white;
+    padding: 8px 0px;
+    padding-right: 63px;
+    display: inline-block;
+    position: relative;
+    bottom: 301px;
+    font-size: 15px;
+    opacity: 0.8;
+}
+#text5-bottom{
+    background-color: white;
+    opacity: 0.8;
+    display: inline-block;
+    padding: 8px 12px;
+    padding-right: 75px;
+    padding-left: 5px;
+    position: relative;
+    bottom: 297px;
+    left: 14px;
+}
+#text6-bottom{
+    background-color: white;
+    display: inline-block;
+    padding: 8px 12px;
+    opacity: 0.8;
+    padding-right:118px;
+    position: relative;
+    bottom: 300px;
+    left: 20px;
+}
+#text7-bottom{
+    display: inline-block;
+    padding: 8px 12px;
+    padding-right: 120px;
+    background-color: white;
+    position: relative;
+    bottom: 301px;
+    left: 30px;
+}
+
